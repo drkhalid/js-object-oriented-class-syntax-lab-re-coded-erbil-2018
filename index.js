@@ -14,5 +14,5 @@ class BoardMember{
   }
   
   class Ceo extends BoardMember {
-    this.
+    this.hireEmployee = 
   }
