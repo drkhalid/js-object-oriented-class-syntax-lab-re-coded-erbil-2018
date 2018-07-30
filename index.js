@@ -7,7 +7,7 @@ class BoardMember{
   
   veto(){return "No, I must disagree"}
   approve(){return "You can do that!"}
-  doCharity(){return "No, I must disagree"}
+  doCharity(){return "I like to help people."}
   releasePressStatement(){return "No, I must disagree"}
   sayHi(){return "No, I must disagree"}
   
