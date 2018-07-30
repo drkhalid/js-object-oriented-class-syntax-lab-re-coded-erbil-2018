@@ -1,5 +1,5 @@
 class BoardMember{
-  function(name,homeState,training){
+  member(name,homeState,training){
     this.name = name;
     this.homeState = homeState;
     this.training = training;
