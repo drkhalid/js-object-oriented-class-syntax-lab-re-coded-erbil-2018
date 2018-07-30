@@ -1,5 +1,5 @@
-class polishedBoardMember{
-  member(name,homeState,training){
+class BoardMember{
+  polishedBoardMember(name,homeState,training){
     this.name = name;
     this.homeState = homeState;
     this.training = training;
