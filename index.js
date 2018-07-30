@@ -14,5 +14,5 @@ class BoardMember{
   }
   
   class Ceo extends BoardMember {
-    this.hireEmployee = 
+    this.hireEmployee = return "Welcome aboard!"
   }
